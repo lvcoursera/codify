@@ -1,0 +1,63 @@
+body {
+	background-color: #fafafa;
+	font-family: Arial, sans-serif;
+}
+
+header a {
+	color: white;
+	text-decoration: none;
+}
+
+#header-nav {
+	background-color: #5c7a89;
+	border: 0;
+	border-radius: 0;
+}
+
+.navbar-brand {
+	font-size: 2em;
+	font-weight: bold;
+	text-align: left;
+	margin: 5px;
+}
+
+.navbar-brand a:hover {
+	color: #3c5866;
+	text-decoration: none;
+}
+
+.navbar-toggle {
+	margin: 15px;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #3c5866;
+}
+.navbar-default .navbar-toggle .icon-bar {
+ 	background-color: #3c5866;
+}
+
+.navbar-default .navbar-toggle.collapsed {
+	border-color: #3c5866;
+}
+
+.navbar-default .navbar-toggle.collapsed .icon-bar {
+  	background-color: #3c5866;
+}
+
+#collapsable-nav {
+	width: 100%;
+	background-color: #5c7a89;
+	text-align: center;
+}
+
+#nav-list a {
+	color: white;
+	text-align: center;
+}
+
+#nav-list a:hover {
+	background-color: #3c5866;
+}
+
+
